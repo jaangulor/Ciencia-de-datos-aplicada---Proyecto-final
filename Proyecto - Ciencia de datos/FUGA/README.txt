@@ -1,0 +1,6 @@
+Para desplegar la aplicación es necesario tener instalado Python y Flask.
+se despliega la aplicación con el siguiente comando:
+python main.py
+se accede a cada una de las petañas de la aplicación.
+Copie y pegue los siguientes valores de entrada en POSTMAN para probar
+[{"SexoDesc":0.0,"Edad":57.0,"EstadoCivilDesc":1.0,"ProfesionDesc":0.0,"indClienteEsEmpleado":0.0,"TipoClienteDesc":0.0,"ValorActivos":47000000.0,"ValorEgresos":800000.0,"ValorIngresos":2960000.0,"ValorOtrosingresos":0.0,"ValorPatrimonio":40554000.0,"TotalPasivos":6446000.0,"NumCreditos":1.0,"SaldoCreditos":4167499.0,"SaldoCarteraVencida":0.0,"NumeroTC":0.0,"SaldoTC":0.0,"SaldoTCVencido":0.0,"NumeroSobregisrosUso":0.0,"SaldoSobregirosUso":0.0,"SaldoSobregirosVencidos":0.0,"NumeroCuentasAhorroActivas":0.0,"SaldoCuentasAhorroActivas":0.0,"NumeroCuentasAhorroInactivas":0.0,"SaldoCuentasAhorroInactivas":0.0,"NumeroCuentasCorrienteActivas":0.0,"SaldoCuentasCorrienteActivas":0.0,"NumeroCuentascorrienteInactivas":0.0,"SaldoCuentascorrienteInactivas":0.0,"NumeroCDT":0.0,"SaldoCDT":0.0,"NumeroCDAT":0.0,"SaldoCDAT":0.0,"SaldoTotalCartera":4167499.0,"NumeroOperacionesCartera":1.0,"NumeroProductosCaptacion":0.0,"SaldoTotalCaptaciones":0.0,"NumCreditosVencidos":0.0,"NumeroTCVencidas":0.0,"NumOperacionesCarteraVencida":0.0,"SaldoTotalCarteraVencida":0.0,"Regional":2.0}]
